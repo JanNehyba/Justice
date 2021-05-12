@@ -1,2 +1,2 @@
-# Justice
-Questionnaire of Perceived Justice
+# Explorativní faktotorá analýza:
+## Sebehodnotící dotazník zaměřený na vnímání spravedlnosti ve vztahu k žákům u studentů učitelství
